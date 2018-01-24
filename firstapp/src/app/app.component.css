@@ -1,0 +1,17 @@
+.fondo{
+    background-color: lightslategrey;
+    color: black;
+}
+
+.fondo2{
+    background-color:gray;
+    color: white;
+    padding: 20px;
+}
+
+.btn{
+    padding: 20px;
+    color: white;
+    background-color: black;
+    display: block;
+}
